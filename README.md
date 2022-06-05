@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marsutron
-- 👀 I’m interested in games and coding (and gamecoding)
+- 👀 I’m interested in games and coding (and coding games)
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
